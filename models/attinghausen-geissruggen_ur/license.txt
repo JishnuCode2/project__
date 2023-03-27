@@ -1,0 +1,11 @@
+Model Information:
+* title:	Attinghausen-Geissrüggen UR
+* source:	https://sketchfab.com/3d-models/attinghausen-geissruggen-ur-60e0fad453434a5d95aa1cf68fa7368c
+* author:	archaeobotics (https://sketchfab.com/archaeobotics)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Attinghausen-Geissrüggen UR" (https://sketchfab.com/3d-models/attinghausen-geissruggen-ur-60e0fad453434a5d95aa1cf68fa7368c) by archaeobotics (https://sketchfab.com/archaeobotics) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

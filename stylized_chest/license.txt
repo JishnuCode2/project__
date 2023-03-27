@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized chest
+* source:	https://sketchfab.com/3d-models/stylized-chest-d78e206f32f74fac92089680f3978ed4
+* author:	Zlata Budilova (https://sketchfab.com/budilova.zlata)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized chest" (https://sketchfab.com/3d-models/stylized-chest-d78e206f32f74fac92089680f3978ed4) by Zlata Budilova (https://sketchfab.com/budilova.zlata) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
